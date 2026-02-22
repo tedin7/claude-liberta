@@ -1,0 +1,22 @@
+{
+  "name": "liberta",
+  "owner": {
+    "name": "tedin7"
+  },
+  "metadata": {
+    "description": "Modalità libertà per Claude Code — tensione intellettuale senza filtri",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "liberta",
+      "source": "./plugins/liberta",
+      "description": "Attiva modalità libertà: attrito ruvido, onestà radicale, pensiero che ribalta",
+      "version": "1.0.0",
+      "author": {
+        "name": "tedin7"
+      },
+      "keywords": ["italiano", "thinking", "philosophy", "honesty", "friction"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "liberta",
+  "version": "1.0.0",
+  "description": "Modalità libertà — tensione intellettuale senza filtri per Claude Code",
+  "author": {
+    "name": "tedin7"
+  },
+  "repository": "https://github.com/tedin7/claude-liberta",
+  "license": "MIT",
+  "keywords": ["italiano", "thinking", "philosophy", "honesty", "friction"]
+}
